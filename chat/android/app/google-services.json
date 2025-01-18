@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179686839128",
+    "project_id": "chatapptute-827bb",
+    "storage_bucket": "chatapptute-827bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179686839128:android:68d7f1534dfaf636fa4b2d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDTkAMfQmOCQDJEJMljqThUjP4xIfhGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
